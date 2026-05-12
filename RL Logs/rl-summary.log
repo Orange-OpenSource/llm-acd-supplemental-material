@@ -1,0 +1,71 @@
+Results for B_lineAgent, 30 steps, no Green
+Reward IQM: -6.76 [-8.20, -4.27], min: -23.80, max: -0.10
+Average time to take action: 6.51e-03 s, +/- 1.06e-01, min: 2.53e-03, max: 5.84e+00
+
+Results for RedMeanderAgent, 30 steps, no Green
+Reward IQM: -8.06 [-8.55, -7.54], min: -13.00, max: -3.10
+Average time to take action: 4.48e-03 s, +/- 1.48e-03, min: 2.51e-03, max: 1.81e-02
+
+Results for SleepAgent, 30 steps, no Green
+Reward IQM: 0.00 [0.00, 0.00], min: 0.00, max: 0.00
+Average time to take action: 4.09e-03 s, +/- 1.56e-03, min: 2.29e-03, max: 1.73e-02
+
+Results for B_lineAgent, 50 steps, no Green
+Reward IQM: -14.95 [-23.39, -11.54], min: -45.80, max: -0.20
+Average time to take action: 4.41e-03 s, +/- 1.35e-03, min: 2.55e-03, max: 1.75e-02
+
+Results for RedMeanderAgent, 50 steps, no Green
+Reward IQM: -19.81 [-21.21, -18.61], min: -53.50, max: -8.90
+Average time to take action: 4.44e-03 s, +/- 1.35e-03, min: 2.50e-03, max: 1.56e-02
+
+Results for SleepAgent, 50 steps, no Green
+Reward IQM: 0.00 [0.00, 0.00], min: 0.00, max: 0.00
+Average time to take action: 3.77e-03 s, +/- 1.21e-03, min: 2.26e-03, max: 1.62e-02
+
+Results for B_lineAgent, 100 steps, no Green
+Reward IQM: -79.43 [-84.53, -72.95], min: -100.80, max: -6.60
+Average time to take action: 4.42e-03 s, +/- 1.21e-03, min: 2.49e-03, max: 1.70e-02
+
+Results for RedMeanderAgent, 100 steps, no Green
+Reward IQM: -53.48 [-55.32, -51.67], min: -615.00, max: -31.00
+Average time to take action: 4.56e-03 s, +/- 1.25e-03, min: 2.53e-03, max: 1.62e-02
+
+Results for SleepAgent, 100 steps, no Green
+Reward IQM: 0.00 [0.00, 0.00], min: 0.00, max: 0.00
+Average time to take action: 3.79e-03 s, +/- 1.13e-03, min: 2.26e-03, max: 1.69e-02
+
+Results for B_lineAgent, 30 steps, with Green
+Reward IQM: -12.50 [-15.95, -8.73], min: -122.80, max: -0.30
+Average time to take action: 4.53e-03 s, +/- 1.47e-03, min: 2.55e-03, max: 1.72e-02
+
+Results for RedMeanderAgent, 30 steps, with Green
+Reward IQM: -10.75 [-11.83, -9.84], min: -82.10, max: -3.80
+Average time to take action: 4.90e-03 s, +/- 1.69e-03, min: 2.53e-03, max: 1.74e-02
+
+Results for SleepAgent, 30 steps, with Green
+Reward IQM: -0.97 [-1.91, -0.81], min: -7.00, max: 0.00
+Average time to take action: 4.25e-03 s, +/- 1.43e-03, min: 2.30e-03, max: 1.61e-02
+
+Results for B_lineAgent, 50 steps, with Green
+Reward IQM: -30.10 [-36.79, -22.93], min: -310.80, max: -3.20
+Average time to take action: 4.77e-03 s, +/- 1.53e-03, min: 2.49e-03, max: 1.74e-02
+
+Results for RedMeanderAgent, 50 steps, with Green
+Reward IQM: -26.72 [-29.43, -24.41], min: -231.60, max: -12.40
+Average time to take action: 4.63e-03 s, +/- 1.39e-03, min: 2.46e-03, max: 1.77e-02
+
+Results for SleepAgent, 50 steps, with Green
+Reward IQM: -2.36 [-2.99, -1.89], min: -7.00, max: 0.00
+Average time to take action: 4.20e-03 s, +/- 1.29e-03, min: 2.30e-03, max: 1.96e-02
+
+Results for B_lineAgent, 100 steps, with Green
+Reward IQM: -82.03 [-114.89, -62.23], min: -1017.80, max: -9.30
+Average time to take action: 4.74e-03 s, +/- 1.29e-03, min: 2.52e-03, max: 1.62e-02
+
+Results for RedMeanderAgent, 100 steps, with Green
+Reward IQM: -139.39 [-206.83, -95.03], min: -858.70, max: -38.20
+Average time to take action: 4.81e-03 s, +/- 1.27e-03, min: 2.47e-03, max: 1.82e-02
+
+Results for SleepAgent, 100 steps, with Green
+Reward IQM: -5.20 [-5.77, -4.81], min: -14.00, max: -1.00
+Average time to take action: 4.23e-03 s, +/- 1.19e-03, min: 2.34e-03, max: 1.69e-02
